@@ -60,3 +60,4 @@ for i in strin:
     print(i)
 print ('Finded ip :',len(strin))
 print("Scaning: ", total)
+input("Press ENTER to exit")
